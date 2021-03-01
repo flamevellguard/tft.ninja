@@ -1,5 +1,19 @@
 ## Welcome to GitHub Pages
 
+[Enter Your Username](Enter-Your-Username.html)
+
+[Pull Current Meta](Pull-Current-Meta.html)
+
+[Search For Champions](Search-For-Champions.html)
+
+[Search For Items](Search-For-Items.html)
+
+[Search For Synergies](Search-For-Synergies.html)
+
+[Update Game State](Update-Game-State.html)
+
+[Watch Tutorial](Watch-Tutorial.html)
+
 You can use the [editor on GitHub](https://github.com/flamevellguard/tft.ninja/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
