@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+[Register](Register.html)
+
+[Update Game State](Update-Game-State.html)
+
 [Enter Your Username](Enter-Your-Username.html)
 
 [Pull Current Meta](Pull-Current-Meta.html)
@@ -10,13 +14,11 @@
 
 [Search For Synergies](Search-For-Synergies.html)
 
-[Update Game State](Update-Game-State.html)
-
 [Watch Tutorial](Watch-Tutorial.html)
 
 [Login](Login.html)
 
-[Register](Register.html)
+[Thank-You](Thank-You.html)
 
 [Logout](Logout.html)
 
