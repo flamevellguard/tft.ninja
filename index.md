@@ -2,9 +2,13 @@
 
 [Register](Register.html)
 
-[Update Game State](Update-Game-State.html)
+[Logout](Logout.html)
+
+[Login](Login.html)
 
 [Enter Your Username](Enter-Your-Username.html)
+
+[Update Game State](Update-Game-State.html)
 
 [Pull Current Meta](Pull-Current-Meta.html)
 
